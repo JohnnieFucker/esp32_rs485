@@ -39,3 +39,14 @@
 
 # debug information files
 *.dwo
+
+# build files
+build/
+
+# idf files
+.idf/
+
+managed_components/
+.cache/
+.cursor/
+.vscode/
